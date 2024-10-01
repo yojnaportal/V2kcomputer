@@ -2,10 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/V2kcomputer/third/</loc>
-    <lastmod>2024-10-01T18:29:24+05:30</lastmod>
+    <loc>http://localhost:1313/V2kcomputer/forth/</loc>
+    <lastmod>2024-10-01T18:38:05+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/V2kcomputer/</loc>
+    <lastmod>2024-10-01T18:38:05+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/V2kcomputer/third/</loc>
     <lastmod>2024-10-01T18:29:24+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/V2kcomputer/second/</loc>
