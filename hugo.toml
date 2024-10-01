@@ -1,4 +1,3 @@
 baseURL = "https://yojnaportal.github.io/V2kcomputer/"
 languageCode = 'en-us'
-theme = 'ananke'
 title = 'V2kcomputers'
