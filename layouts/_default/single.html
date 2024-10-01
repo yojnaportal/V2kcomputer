@@ -1,0 +1,10 @@
+{{ define "main" }}
+<div class="single"> 
+
+<div class="singleContent"> {{ .Content }} </div>
+{{ if .Params.showPartial }}
+{{ partial "auto-update/schemes.html" . }}
+{{ end }}
+</div>
+
+{{ end }}
