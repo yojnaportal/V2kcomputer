@@ -2,24 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>V2kcomputers</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:1313/V2kcomputer/</link>
     <description>Recent content on V2kcomputers</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Oct 2024 16:27:25 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Oct 2024 18:29:24 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/V2kcomputer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Third</title>
+      <link>http://localhost:1313/V2kcomputer/third/</link>
+      <pubDate>Tue, 01 Oct 2024 18:29:24 +0530</pubDate>
+      <guid>http://localhost:1313/V2kcomputer/third/</guid>
+      <description>third post third post third post third post third post third post third post third post third post third post third post third post third post third post third post third post third post third post third post third post third post third post third post third post third post third post third post third post third post third post third post third post third post third post third post third post third post third post third post third post</description>
+    </item>
     <item>
       <title>Second</title>
-      <link>http://localhost:1313/second/</link>
+      <link>http://localhost:1313/V2kcomputer/second/</link>
       <pubDate>Tue, 01 Oct 2024 16:27:25 +0530</pubDate>
-      <guid>http://localhost:1313/second/</guid>
+      <guid>http://localhost:1313/V2kcomputer/second/</guid>
       <description>it is tesdkjdkfjit is tesdkjdkfjit is tesdkjdkfjit is tesdkjdkfjit is tesdkjdkfjit is tesdkjdkfjit is tesdkjdkfjit is tesdkjdkfjit is tesdkjdkfjit is tesdkjdkfjit is tesdkjdkfjit is tesdkjdkfjit is tesdkjdkfjit is tesdkjdkfjit is tesdkjdkfjit is tesdkjdkfjit is tesdkjdkfjit is tesdkjdkfjit is tesdkjdkfjit is tesdkjdkfjit is tesdkjdkfjit is tesdkjdkfj</description>
     </item>
     <item>
       <title>Fist Blog</title>
-      <link>http://localhost:1313/fist-blog/</link>
+      <link>http://localhost:1313/V2kcomputer/fist-blog/</link>
       <pubDate>Tue, 01 Oct 2024 16:25:29 +0530</pubDate>
-      <guid>http://localhost:1313/fist-blog/</guid>
+      <guid>http://localhost:1313/V2kcomputer/fist-blog/</guid>
       <description>it is tesdkjdkfjit is tesdkjdkfjit is tesdkjdkfjit is tesdkjdkfjit is tesdkjdkfjit is tesdkjdkfjit is tesdkjdkfjit is tesdkjdkfjit is tesdkjdkfjit is tesdkjdkfjit is tesdkjdkfjit is tesdkjdkfjit is tesdkjdkfjit is tesdkjdkfjit is tesdkjdkfjit is tesdkjdkfjit is tesdkjdkfjit is tesdkjdkfjit is tesdkjdkfjit is tesdkjdkfjit is tesdkjdkfjit is tesdkjdkfj</description>
     </item>
   </channel>
